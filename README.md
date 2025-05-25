@@ -29,7 +29,7 @@ A full-stack productivity app to manage todos, summarize pending tasks using AI 
 
 ```bash
 git clone https://github.com/mekshitijsingh/Todo-Summarizer.git
-cd todo-summary-assistant/backend
+cd backend
 ````
 
 ### 2. Install Dependencies
@@ -76,7 +76,7 @@ Server will run at: [http://localhost:5000](http://localhost:5000)
 ### 1. Navigate to Frontend Folder
 
 ```bash
-cd ../todo-summary-ui
+cd frontend
 ```
 
 ### 2. Install Dependencies
